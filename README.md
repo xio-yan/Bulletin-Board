@@ -35,7 +35,7 @@
 
 黎明程式設計研究社    社長
 
-李信緯的Blog:http://reurl.cc/MAO8r3
+李信緯的Blog: http://reurl.cc/MAO8r3
 
-電子郵件:mdwiwi0130@gmail.com
+電子郵件: mdwiwi0130@gmail.com
 
