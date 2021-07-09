@@ -21,7 +21,7 @@
 
  
 
-黎明中學DICE官網:黎明中學DICE程式設計精準教學平台
+黎明中學DICE官網:[黎明中學DICE程式設計精準教學平台](http://dice.lmsh.tn.edu.tw:7072/ndice/?ms=6072&exelang=C%2b%2b)
 
 若有任何疑問歡迎回信
 
@@ -35,7 +35,7 @@
 
 黎明程式設計研究社    社長
 
-李信緯的Blog: http://reurl.cc/MAO8r3
+李信緯的Blog: [http://reurl.cc/MAO8r3](http://reurl.cc/MAO8r3)
 
-電子郵件: mdwiwi0130@gmail.com
+電子郵件: [mdwiwi0130@gmail.com](mdwiwi0130@gmail.com)
 
